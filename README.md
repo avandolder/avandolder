@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I really like programming languages!
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=avandolder&count_private=true&show_icons=true&include_all_commits=true&theme=merko)](https://github.com/avandolder/github-readme-stats)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=avandolder&count_private=true&show_icons=true&include_all_commits=true&theme=merko)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avandolder&layout=compact&theme=merko)](https://github.com/avandolder/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avandolder&layout=compact&theme=merko)
