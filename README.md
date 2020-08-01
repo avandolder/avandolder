@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on pretty much anything PL related! Compilers, JITs, transpilers, whatever!
 - 📫 How to reach me: email works fine!
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I really like programming languages!
+- ⚡ Fun fact: Did I mention I really like programming languages?
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=avandolder&count_private=true&show_icons=true&include_all_commits=true&theme=merko)
 
