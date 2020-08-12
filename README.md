@@ -1,10 +1,8 @@
-### Hi there 👋
+### Hello 👋!
 
 <!--
 **avandolder/avandolder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on implementing new features into Spidermonkey, particularly the Iterator Helpers and Private Methods Javascript proposals.
 - 🌱 I’m currently learning more about Programming Languages and Type Theory as I work through Types and Programming Languages.
